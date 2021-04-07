@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[6]:
 
 
@@ -161,16 +158,3 @@ for i in houseprice_1:
 for i in houseprice_1:
     if i[0] == 'Detached':
         print(i)
-
-
-# In[16]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
